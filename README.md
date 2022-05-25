@@ -7,7 +7,7 @@
   </a>
 </p>
 
-A utility-first CSS framework for rapidly building custom user interfaces.
+功能类优先的快速 UI 开发 CSS 框架 tailwindcss 中文版
 
 <p>
     <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://img.shields.io/github/workflow/status/tailwindlabs/tailwindcss/Node.js%20CI" alt="Build Status"></a>
